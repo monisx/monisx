@@ -31,7 +31,7 @@
 
 🐈‍⬛ About Me
 ```diff
-+ Payroll Analyst @ Vauras.com
++ Payroll Analyst @ Vauras
 + Data-driven | Detail-obsessed | Process-focused
-+ Excel • SQL • Reporting • Compliance
++ Excel • SQL • PowerBi • Python • Reporting • Compliance
 + Certified Cat Enthusiast (Felinophile)
