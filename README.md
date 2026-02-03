@@ -32,11 +32,3 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visits&color=ff00ff&style=for-the-badge"/>
 </p>
 
----
-
-🐈‍⬛ Who Am I?
-```diff
-+ Payroll Analyst @ Vauras.com
-+ Accuracy-driven • Deadline-loyal • Audit-ready
-+ Excel | SQL | Payroll Systems | Compliance
-+ Cat-first mindset (Certified Felinophile)
