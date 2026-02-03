@@ -1,25 +1,24 @@
 ## Hi there 👋
 
-<!-- ================================================= -->
-<!--  NEON FELINOPHILE | DARK CYBERPUNK README 🐈‍⬛  -->
-<!-- ================================================= -->
+<!-- =============================== -->
+<!--  DARK FELINOPHILE README 🐈‍⬛  -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Monis&fontSize=60&fontColor=00F5FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Monis&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/
-  font=JetBrains+Mono&
+  font=Fira+Code&
   size=24&
-  pause=900&
-  color=FF4DFF&
+  pause=1000&
+  color=7DF9FF&
   center=true&
   vCenter=true&
-  width=750&
+  width=700&
   lines=Payroll+Analyst+%40+Vauras.com;
-  Precision+%7C+Compliance+%7C+Analytics;
-  Excel+%7C+SQL+%7C+Reporting;
+  Data+Accuracy+%7C+Compliance+%7C+Analytics;
   Proud+Felinophile+%F0%9F%90%B1;
   Dark+Mode+Only+%F0%9F%8C%9A" />
 </p>
@@ -28,7 +27,11 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="190"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visits&color=ff00ff&style=for-the-badge"/>
-</p>
+---
 
+🐈‍⬛ About Me
+```diff
++ Payroll Analyst @ Vauras.com
++ Data-driven | Detail-obsessed | Process-focused
++ Excel • SQL • Reporting • Compliance
++ Certified Cat Enthusiast (Felinophile)
